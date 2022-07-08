@@ -1,4 +1,4 @@
-ABOUT ME
+**ABOUT ME**
 I'm a data scientist passionate about data science in general and machine learning in particular. I am currently looking for a job. Feel free to contact me if you want to hire me.
 
 CURRENTLY LEARNING
